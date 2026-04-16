@@ -239,4 +239,4 @@ python run.py
 ## 👨‍💻 Author
 
 **Vipul Paighan**
-Full Stack Developer | Data Analyst | AI Enthusiast
+Full Stack Developer | Data Analyst | Applied AI & Data Science
