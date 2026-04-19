@@ -1,6 +1,6 @@
-# 🚗 Vehicle Damage AI System
+# Vehicle Damage AI System
 
-## 📌 Overview
+## Overview
 
 An end-to-end **AI-powered vehicle damage detection and repair cost estimation system** that automates inspection using computer vision and backend intelligence.
 
@@ -8,7 +8,7 @@ The system allows users to upload an image of a damaged vehicle, detects affecte
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Traditional vehicle damage assessment is:
 
@@ -24,9 +24,9 @@ This system provides:
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
-### 🔍 AI-Based Damage Detection
+### AI-Based Damage Detection
 
 * YOLOv8 object detection model
 * Detects vehicle parts (Bumper, Door, Light, etc.)
@@ -34,7 +34,7 @@ This system provides:
 
 ---
 
-### 💰 Cost Estimation Engine
+### Cost Estimation Engine
 
 * Dynamic pricing based on:
 
@@ -44,7 +44,7 @@ This system provides:
 
 ---
 
-### 🧠 Scalable Backend Architecture
+### Scalable Backend Architecture
 
 * Layered architecture:
 
@@ -55,7 +55,7 @@ This system provides:
 
 ---
 
-### 🗄️ PostgreSQL Integration
+### PostgreSQL Integration
 
 * Stores:
 
@@ -66,21 +66,21 @@ This system provides:
 
 ---
 
-### 📊 Report Management
+### Report Management
 
 * Stores historical damage reports
 * Supports future analytics (cost trends, damage frequency)
 
 ---
 
-### 🔐 Authentication System
+### Authentication System
 
 * Secure user registration & login
 * Password hashing using bcrypt
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 Frontend (React / UI)
@@ -99,7 +99,7 @@ JSON Response
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```text
 backend/
@@ -150,7 +150,7 @@ backend/
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. User uploads image
 2. Backend processes image
@@ -163,7 +163,7 @@ backend/
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Auth
 
@@ -186,7 +186,7 @@ GET /api/reports?user_id=1
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ```bash
 git clone https://github.com/your-username/vehicle-damage-ai-system.git
@@ -218,16 +218,16 @@ python run.py
 
 ---
 
-## 📈 Impact
+## Impact
 
-* ⏱️ Reduced inspection time by ~60%
-* 🤖 Eliminates manual bias
-* 📊 Enables structured analytics
-* 🧱 Modular & scalable backend
+* Reduced inspection time by ~60%
+* Eliminates manual bias
+* Enables structured analytics
+* Modular & scalable backend
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Insurance system integration
 * Mobile app (React Native)
@@ -236,7 +236,7 @@ python run.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vipul Paighan**
 Full Stack Developer | Data Analyst | Applied AI & Data Science
